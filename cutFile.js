@@ -1,4 +1,3 @@
-import { createChunk } from './createChunk';
 const CHUNK_SIZE = 1024 * 1024 * 5; // 1MB
 const THREAD_COUNT = navigator?.hardwareConcurrency || 4; // 定义线程数
 
