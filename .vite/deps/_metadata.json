@@ -1,0 +1,15 @@
+{
+  "hash": "adf4d181",
+  "configHash": "00102a28",
+  "lockfileHash": "ad28b9cc",
+  "browserHash": "766ca949",
+  "optimized": {
+    "spark-md5": {
+      "src": "../../node_modules/spark-md5/spark-md5.js",
+      "file": "spark-md5.js",
+      "fileHash": "6bd371e2",
+      "needsInterop": true
+    }
+  },
+  "chunks": {}
+}
